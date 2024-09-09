@@ -1,11 +1,10 @@
-# hello-world
-My first repository
+# Hi there!!!
+Welcome to my profile
 ## Bio
-1. I am Ayush Kumar.
-2. I am currently a student, and want to learn web development.
-3. I am 18 years old and this year I shall enter college for my Bachelors in Computer Science Engineering.
+1. I am Ayush Kumar, a 2nd year Information Technology undergrad, with basic know-how of web-development and super excited about the applications of generative AI.
+2. Currently working on creating some web-apps with the assistance of AI tools like claude and chatGPT (trust me, when I say "this is really cooooooooollll!!!!!!")
 ---
-> I like Strength training very much, I am a foodie with no money to spend, so I don't get to try many different foods.
+> Besides programming, I like strength training, card magic and travelling 😉.
 ---
 `print("hello world")`
 `console.log("hello world")`
