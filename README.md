@@ -6,5 +6,3 @@ Welcome to my profile
 ---
 > Besides programming, I like strength training, card magic and travelling 😉.
 ---
-`print("hello world")`
-`console.log("hello world")`
